@@ -1,0 +1,5 @@
+2024-06-11 21:24:26.3009 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-06-11 21:24:26.3009 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-06-11 21:24:26.3116 Info Closing old configuration.
+2024-06-11 21:24:26.3267 Info Validating config: TargetNames=allfile, lifetimeConsole, ConfigItems=28, FilePath=C:\DBHuan\MyProject\web\Sora.PerformanceMaskLog\Sora.PerformanceMaskLog\Sora.PerformanceMaskLog\bin\Debug\net8.0\NLog.config
+2024-06-11 21:24:26.3267 Info Configuration initialized.
